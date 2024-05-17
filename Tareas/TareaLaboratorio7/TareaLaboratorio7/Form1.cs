@@ -13,7 +13,10 @@ namespace TareaLaboratorio7
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            cboActividad.SelectedIndex = 0;
+            cboAfiliado.SelectedIndex = 0;
+            cboCondicion.SelectedIndex = 0;
+            cboEspecialidad.SelectedIndex = 0;
 
         }
 
