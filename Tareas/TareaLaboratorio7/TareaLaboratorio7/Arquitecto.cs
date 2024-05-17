@@ -11,10 +11,10 @@ namespace TareaLaboratorio7
     {
         public string Codigo { get; set; }
         public string Nombre { get; set; }
-        public string CondicionContrato { get; set; } // estable, contratado
-        public string Especialidad { get; set; } // estructuras, recursos hídricos
-        public string TipoActividad { get; set; } // supervisión de obras, supervisión de vías
-        public string TipoAfiliado { get; set; } // AFP, SNP
+        public string CondicionContrato { get; set; } 
+        public string Especialidad { get; set; } 
+        public string TipoActividad { get; set; } 
+        public string TipoAfiliado { get; set; }
 
         public Arquitecto(string codigo, string nombre, string condicionContrato, string especialidad, string tipoActividad, string tipoAfiliado)
         {
