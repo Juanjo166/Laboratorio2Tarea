@@ -28,18 +28,18 @@ namespace TareaLaboratorio7_2_
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            // Calculamos los valores una vez y los almacenamos en variables locales
+            
             double sueldoBase = jefe.CalcularSueldoBase();
             double bonificacion = jefe.CalcularBonificacion();
 
-            // Mostramos la información
+            
             txtResultado.AppendText("DNI: " + jefe.Dni + Environment.NewLine);
             txtResultado.AppendText("Nombre: " + jefe.Nombres + Environment.NewLine);
             txtResultado.AppendText("Cargo: " + jefe.Cargo + Environment.NewLine);
             txtResultado.AppendText("Area: " + jefe.Area + Environment.NewLine);
             txtResultado.AppendText("Años de Antiguedad: " + jefe.AnosAntiguedad + Environment.NewLine);
-            txtResultado.AppendText("Sueldo Base: " + sueldoBase + Environment.NewLine); // Mostramos la variable local
-            txtResultado.AppendText("Bonificacion: " + bonificacion + Environment.NewLine); // Mostramos la variable local
+            txtResultado.AppendText("Sueldo Base: " + sueldoBase + Environment.NewLine); 
+            txtResultado.AppendText("Bonificacion: " + bonificacion + Environment.NewLine); 
             txtResultado.AppendText("Movilidad : " + jefe.AsignarMontoMovilidad() + Environment.NewLine);
             txtResultado.AppendText("Sueldo Final: " + jefe.CalcularSueldoFinal() + Environment.NewLine);
         }

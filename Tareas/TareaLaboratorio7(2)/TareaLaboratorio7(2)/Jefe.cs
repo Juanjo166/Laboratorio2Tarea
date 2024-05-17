@@ -11,8 +11,8 @@ namespace TareaLaboratorio7_2_
 
         public string Nombres { get; set; }
         public string Dni { get; set; }
-        public string Cargo { get; set; } // gerente, subgerente
-        public string Area { get; set; } // contabilidad, planificación
+        public string Cargo { get; set; } 
+        public string Area { get; set; }
         public int AnosAntiguedad { get; set; }
 
         public Jefe(string nombres, string dni, string cargo, string area, int anosAntiguedad)
