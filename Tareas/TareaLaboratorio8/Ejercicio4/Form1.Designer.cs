@@ -68,15 +68,15 @@
             label2.AutoSize = true;
             label2.Location = new Point(89, 160);
             label2.Name = "label2";
-            label2.Size = new Size(265, 20);
+            label2.Size = new Size(278, 20);
             label2.TabIndex = 3;
-            label2.Text = "Ingrese el primer conjunto de numeros";
+            label2.Text = "Ingrese el segundo conjunto de numeros";
             // 
             // buttonInterseccion
             // 
             buttonInterseccion.Location = new Point(151, 252);
             buttonInterseccion.Name = "buttonInterseccion";
-            buttonInterseccion.Size = new Size(94, 29);
+            buttonInterseccion.Size = new Size(103, 29);
             buttonInterseccion.TabIndex = 4;
             buttonInterseccion.Text = "Intersección";
             buttonInterseccion.UseVisualStyleBackColor = true;
@@ -105,10 +105,10 @@
             linkLabel1.AutoSize = true;
             linkLabel1.Location = new Point(166, 25);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(72, 20);
+            linkLabel1.Size = new Size(88, 20);
             linkLabel1.TabIndex = 66;
             linkLabel1.TabStop = true;
-            linkLabel1.Text = "Divisibles";
+            linkLabel1.Text = "Interseccion";
             // 
             // btnSalir
             // 

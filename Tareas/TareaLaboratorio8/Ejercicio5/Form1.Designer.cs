@@ -72,9 +72,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(82, 151);
             label2.Name = "label2";
-            label2.Size = new Size(265, 20);
+            label2.Size = new Size(278, 20);
             label2.TabIndex = 10;
-            label2.Text = "Ingrese el primer conjunto de numeros";
+            label2.Text = "Ingrese el segundo conjunto de numeros";
             // 
             // label1
             // 

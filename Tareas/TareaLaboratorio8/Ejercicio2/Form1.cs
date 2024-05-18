@@ -11,9 +11,6 @@ namespace Ejercicio2
         {
 
 
-
-
-
         }
 
         private void buttonFiltrar_Click(object sender, EventArgs e)
