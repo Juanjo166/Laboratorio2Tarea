@@ -23,25 +23,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio9", "Ejercicio9\Ej
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio10", "Ejercicio10\Ejercicio10.csproj", "{329CC40E-01A2-40A5-B6F8-74CC605D8D55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio11", "Ejercicio11\Ejercicio11.csproj", "{8416ECE1-B56B-4360-B41D-A7485E1F9E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio11", "Ejercicio11\Ejercicio11.csproj", "{8416ECE1-B56B-4360-B41D-A7485E1F9E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{F702C095-2EE3-445B-B658-5AE5CD65DE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{F702C095-2EE3-445B-B658-5AE5CD65DE59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio13", "Ejercicio13\Ejercicio13.csproj", "{4C26FEF0-A0AA-4E8E-9B8D-1BB50C379DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio13", "Ejercicio13\Ejercicio13.csproj", "{4C26FEF0-A0AA-4E8E-9B8D-1BB50C379DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio14", "Ejercicio14\Ejercicio14.csproj", "{18CCCA04-0944-438D-8F2C-9811912FCD4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio14", "Ejercicio14\Ejercicio14.csproj", "{18CCCA04-0944-438D-8F2C-9811912FCD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio15", "Ejercicio15\Ejercicio15.csproj", "{4B56129F-36B1-4578-8856-C788302422D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio15", "Ejercicio15\Ejercicio15.csproj", "{4B56129F-36B1-4578-8856-C788302422D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16", "Ejercicio16\Ejercicio16.csproj", "{46607954-727D-4C01-BDA5-C7FDCFA4D1BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio16", "Ejercicio16\Ejercicio16.csproj", "{46607954-727D-4C01-BDA5-C7FDCFA4D1BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio17", "Ejercicio17\Ejercicio17.csproj", "{8297354A-1B85-4073-9BFD-ABDC10F6EDD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio17", "Ejercicio17\Ejercicio17.csproj", "{8297354A-1B85-4073-9BFD-ABDC10F6EDD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio18", "Ejercicio18\Ejercicio18.csproj", "{461D2F9C-8AD0-4366-A26D-5898489E1A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio18", "Ejercicio18\Ejercicio18.csproj", "{461D2F9C-8AD0-4366-A26D-5898489E1A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 19", "Ejercicio 19\Ejercicio 19.csproj", "{FD4085E3-30DC-4C99-B6C3-30714A600C01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 19", "Ejercicio 19\Ejercicio 19.csproj", "{FD4085E3-30DC-4C99-B6C3-30714A600C01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio20", "Ejercicio20\Ejercicio20.csproj", "{24BB5FD5-B350-4D8E-AF02-3DAF3508DE0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio20", "Ejercicio20\Ejercicio20.csproj", "{24BB5FD5-B350-4D8E-AF02-3DAF3508DE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio.1", "Ejercicio.1\Ejercicio.1.csproj", "{63630196-4187-4FE8-9CB7-4B2EF4C5EA34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{24BB5FD5-B350-4D8E-AF02-3DAF3508DE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24BB5FD5-B350-4D8E-AF02-3DAF3508DE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24BB5FD5-B350-4D8E-AF02-3DAF3508DE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63630196-4187-4FE8-9CB7-4B2EF4C5EA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63630196-4187-4FE8-9CB7-4B2EF4C5EA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63630196-4187-4FE8-9CB7-4B2EF4C5EA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63630196-4187-4FE8-9CB7-4B2EF4C5EA34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
